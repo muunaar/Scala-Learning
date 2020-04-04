@@ -1,5 +1,5 @@
 
-#Almost every day !! 
+# Almost every day !! 
 
 
 Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting. 
@@ -8,7 +8,7 @@ My reads focus mainly on Scala, Functional Programming, Data Engineering and tec
 
 ## 4/4/2020
 
-My daily blogs reads
+
 
 
 ### Applicatives in Scala
