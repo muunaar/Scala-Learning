@@ -2,11 +2,11 @@
 
 ## Applicatives in Scala
 
-[https://blog.knoldus.com/applicatives-in-scala/ ]
+https://blog.knoldus.com/applicatives-in-scala/ 
 
 ## Applicatives are generalized Functors 
 
-[https://hseeberger.wordpress.com/2011/01/31/applicatives-are-generalized-functors/]
+https://hseeberger.wordpress.com/2011/01/31/applicatives-are-generalized-functors/
 
 ## Functors, Monads, Applicatives – can be so simple
 
@@ -21,5 +21,5 @@ http://eed3si9n.com/learning-scalaz/Applicative.html
 
 http://etorreborre.blogspot.com/2011/06/essence-of-iterator-pattern.html 
 
-* // Further read when grown up * 
+* In depth check later 
 
