@@ -1,2 +1,2 @@
-# Scala-Learning
-Daily Reads
+# Daily Reads:  Scala Blogs
+
