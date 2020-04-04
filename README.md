@@ -6,6 +6,8 @@ Here, I list all the articles, blog posts, pages I've read, or videos I've watch
 
 My reads focus mainly on Scala, Functional Programming, Data Engineering and technology. 
 
+
+
 ## 4/4/2020
 
 
