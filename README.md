@@ -40,3 +40,8 @@ http://etorreborre.blogspot.com/2011/06/essence-of-iterator-pattern.html
 ### Implicit Design Patterns in Scala
 
 http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html
+
+
+### Scala Variances 
+
+https://www.journaldev.com/9585/scala-variances-covariant-invariant-contravariant
