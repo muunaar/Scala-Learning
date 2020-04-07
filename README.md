@@ -36,3 +36,7 @@ http://etorreborre.blogspot.com/2011/06/essence-of-iterator-pattern.html
 
 * In depth check later 
 
+## 4/6/2020
+### Implicit Design Patterns in Scala
+
+http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html
