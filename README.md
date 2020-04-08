@@ -54,6 +54,10 @@ https://www.waitingforcode.com/scala-types/scala-context-bound/read
 
 ## 8/4/2020
 
+### Streams Laziness
+
+https://pedrorijo.com/blog/scala-streams/
+
 ### Implicits 
 
 https://docs.scala-lang.org/tutorials/FAQ/finding-implicits.html
