@@ -67,3 +67,6 @@ https://docs.scala-lang.org/tutorials/FAQ/finding-implicits.html
 http://www.scalatest.org/user_guide/philosophy_and_design
 
 
+### Interesting Talk on ScalaTest
+
+https://youtu.be/rRdswvatT7o?list=PLE6lN5fNjrio-hTKned-lsY6cAZL22i0J
