@@ -45,3 +45,21 @@ http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html
 ### Scala Variances 
 
 https://www.journaldev.com/9585/scala-variances-covariant-invariant-contravariant
+
+## 7/4/2020
+
+### Scala context bound
+
+https://www.waitingforcode.com/scala-types/scala-context-bound/read
+
+## 8/4/2020
+
+### Implicits 
+
+https://docs.scala-lang.org/tutorials/FAQ/finding-implicits.html
+
+### ScalaTest Documentation
+
+http://www.scalatest.org/user_guide/philosophy_and_design
+
+
