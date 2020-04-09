@@ -71,6 +71,8 @@ http://www.scalatest.org/user_guide/philosophy_and_design
 
 https://youtu.be/rRdswvatT7o?list=PLE6lN5fNjrio-hTKned-lsY6cAZL22i0J
 
+## 4/9/2020
+
 ### Type classes in Scala Scalac
 
 https://scalac.io/typeclasses-in-scala/
