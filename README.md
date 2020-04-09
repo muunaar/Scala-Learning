@@ -70,3 +70,7 @@ http://www.scalatest.org/user_guide/philosophy_and_design
 ### Interesting Talk on ScalaTest
 
 https://youtu.be/rRdswvatT7o?list=PLE6lN5fNjrio-hTKned-lsY6cAZL22i0J
+
+### Type classes in Scala Scalac
+
+https://scalac.io/typeclasses-in-scala/
