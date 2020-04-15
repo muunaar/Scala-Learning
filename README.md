@@ -86,7 +86,7 @@ https://scalac.io/typeclasses-in-scala/
 
 ## 4/15/2020
 
-###Interesting talk on property based testing
+### Interesting talk on property based testing
 
 https://www.youtube.com/watch?v=5pwv3cuo3Qk
 
