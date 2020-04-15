@@ -76,3 +76,19 @@ https://youtu.be/rRdswvatT7o?list=PLE6lN5fNjrio-hTKned-lsY6cAZL22i0J
 ### Type classes in Scala Scalac
 
 https://scalac.io/typeclasses-in-scala/
+
+
+
+## 4/13/2020
+.
+## 4/14/2020
+.
+
+## 4/15/2020
+
+###Interesting talk on property based testing
+
+https://www.youtube.com/watch?v=5pwv3cuo3Qk
+
+
+
