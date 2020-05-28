@@ -1,5 +1,5 @@
 
-# Almost every day !! 
+# My Reads !! 
 
 
 Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting. 
@@ -90,5 +90,9 @@ https://scalac.io/typeclasses-in-scala/
 
 https://www.youtube.com/watch?v=5pwv3cuo3Qk
 
+## 5/28/2020
 
+### Concurrency  with Future
+https://alvinalexander.com/scala/concurrency-with-scala-futures-tutorials-examples/
 
+https://medium.com/@jstnlef/a-journey-into-concurrent-programming-in-scala-c1c3e7df0c4f
