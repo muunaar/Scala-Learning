@@ -90,6 +90,9 @@ https://scalac.io/typeclasses-in-scala/
 
 https://www.youtube.com/watch?v=5pwv3cuo3Qk
 
+## 5/27/2020
+### FS2 Library Scala
+https://www.youtube.com/watch?v=YSN__0VEsaw&t=51s
 ## 5/28/2020
 
 ### Concurrency  with Future
